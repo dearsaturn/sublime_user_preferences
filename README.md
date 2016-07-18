@@ -10,4 +10,5 @@ I also like to install the following packages as a base:
 * Boxy Theme
 * BracketHighlighter
 * ERB Autocomplete
+* Git
 * Sass
