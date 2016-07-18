@@ -11,4 +11,5 @@ I also like to install the following packages as a base:
 * BracketHighlighter
 * ERB Autocomplete
 * Git
+* GitGutter
 * Sass
